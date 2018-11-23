@@ -1,0 +1,15 @@
+div.content{
+    width: 100%;
+    text-align: center;
+    padding: 16px;
+}
+div.videoDetail{
+  
+    width: 640px;
+    display: inline-block;
+}
+
+.btn-group {
+    display: block;
+    float: right;
+}
